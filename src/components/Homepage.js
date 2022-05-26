@@ -6,14 +6,15 @@ export default function Welcome () {
         
         <div className='homepage-container'>
 
-            <h1 className='homepage-title'>Welcome</h1>
+            <h1 className='homepage-title'>Welcome!</h1>
             <hr />
-            <p className='homepage-message'>Hey there!  My name is Kellen Andrea!  I'm a Junior Full-Stack Developer.
+            <p className='homepage-message'>Hey there!  My name is Kellen Andrea!  I'm a Junior Front-End Developer.
             I have created this portfolio to display projects that I have built, as well as cursory information about me.
             Please peruse my work, and contact me if you have questions!
             </p>
 
         </div>
             
-    )
-}
+    );
+
+};
