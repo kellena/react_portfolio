@@ -13,13 +13,13 @@ export default function Content() {
     return (
         
         <div className="content-main">
-        <Routes>
-            <Route path="/" element={<Homepage />} />
-            <Route path="/about" element={<About />} />
-            <Route path="/projects" element={<Projects />} />
-            <Route path="/resume" element={<Resume />} />
-            <Route path="/skills" element={<Skills />} />
-        </Routes>
+            <Routes>
+                <Route path="/" element={<Homepage />} />
+                <Route path="/about" element={<About />} />
+                <Route path="/projects" element={<Projects />} />
+                <Route path="/resume" element={<Resume />} />
+                <Route path="/skills" element={<Skills />} />
+            </Routes>
         </div>
 
     );
