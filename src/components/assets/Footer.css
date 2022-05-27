@@ -14,14 +14,14 @@ Footer {
     align-items: center;
 }
 
-.link-tree-logo {
+.logo-links {
     height: 50px;
     width: 50px;
     margin: 10px;
 }
 
 @media only screen and (max-width: 420px) {
-    .link-tree-logo {
+    .logo-links {
         height: 30px;
         width: 30px;
         margin: 5px;
