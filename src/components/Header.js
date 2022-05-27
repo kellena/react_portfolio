@@ -9,7 +9,7 @@ export default function Header() {
 
         <div className="header-top">
 
-            <img src={require("../assets/img/Kellen1.png")} alt="Kellen"/>
+            <img src={require("../assets/img/kellen1.png")} alt="Kellen"/>
 
             <div>
                 <h1 className="header-name">Kellen Andrea</h1>
