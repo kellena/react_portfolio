@@ -2,8 +2,8 @@ import "./assets/Content.css";
 
 import { Route, Routes } from "react-router-dom";
 
-import About from "./About";
 import Homepage from "./Homepage";
+import About from "./About";
 import Projects from "./Projects";
 import Resume from "./Resume";
 import Skills from "./Skills";
