@@ -22,25 +22,25 @@ export default function Header() {
 
             <nav className="header-nav">
 
-                <Link to="/">
+                <a href="/">
                     <button>Home</button>
-                </Link>
+                </a>
 
-                <Link to="/about">
+                <a href="/about">
                     <button>About</button>
-                </Link>
+                </a>
 
-                <Link to="/projects">
+                <a href="/projects">
                     <button>Projects</button>
-                </Link>
+                </a>
 
-                <Link to="/resume">
+                <a href="/resume">
                     <button>Resume</button>
-                </Link>
+                </a>
 
-                <Link to="/skills">
+                <a href="/skills">
                     <button>Skills</button>
-                </Link>
+                </a>
 
             </nav>
 

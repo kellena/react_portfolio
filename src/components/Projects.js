@@ -51,7 +51,7 @@ export default function Projects () {
                     <div className='project-card' key={project.title}>
 
                         <h1>{project.title}</h1>
-                        <img alt='app screenshot' src={`images/projects/${project.img}.png`} />
+                        <img alt='app screenshot' src={`/projects/${project.img}.png`} />
 
                         <div className='project-card-links-container'>
                             <a href={project.deployed}>Deployed App -- </a>
